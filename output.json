@@ -1,0 +1,38 @@
+http://fierce-tundra-3049.herokuapp.com/
+loading http://fierce-tundra-3049.herokuapp.com/
+program file:{
+    "h1": true,
+    ".navigation": true,
+    ".logo": true,
+    ".blank": true,
+    ".about": true,
+    ".heading": true,
+    ".subheading": true,
+    ".pitch": true,
+    ".video": true,
+    ".thermometer": true,
+    ".order": true,
+    ".social": true,
+    ".section1": true,
+    ".section2": true,
+    ".faq": true,
+    ".footer": true
+}
+Url:{
+    "h1": true,
+    ".navigation": true,
+    ".logo": true,
+    ".blank": true,
+    ".about": true,
+    ".heading": true,
+    ".subheading": true,
+    ".pitch": true,
+    ".video": true,
+    ".thermometer": true,
+    ".order": true,
+    ".social": true,
+    ".section1": true,
+    ".section2": true,
+    ".faq": true,
+    ".footer": true
+}

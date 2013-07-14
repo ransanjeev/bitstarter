@@ -1,0 +1,18 @@
+{
+    "h1": true,
+    ".navigation": true,
+    ".logo": true,
+    ".blank": true,
+    ".about": true,
+    ".heading": true,
+    ".subheading": true,
+    ".pitch": true,
+    ".video": true,
+    ".thermometer": true,
+    ".order": true,
+    ".social": true,
+    ".section1": true,
+    ".section2": true,
+    ".faq": true,
+    ".footer": true
+}
