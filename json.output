@@ -1,7 +1,7 @@
 {
     "h1": true,
     ".navigation": true,
-    ".logo": true,
+    ".Logo": true,
     ".blank": true,
     ".about": true,
     ".heading": true,
